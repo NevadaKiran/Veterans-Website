@@ -51,11 +51,15 @@ img {
     transition: 0.2s;
     -moz-transition: 0.2s;
     -webkit-transition: 0.2s;
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
 }
+
 img:hover, img:focus {
     opacity:0.9;
-    height: 50% auto;
-    width: 50% auto;
+
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     clear: both;
