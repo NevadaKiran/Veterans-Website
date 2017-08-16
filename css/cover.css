@@ -51,10 +51,10 @@ img {
     transition: 0.2s;
     -moz-transition: 0.2s;
     -webkit-transition: 0.2s;
-    max-height: 150px;
-    max-width: 200px;
-    width: 120px;
-    height: 120px;
+    max-height: 75px;
+    max-width: 100px;
+    width: 75px;
+    height: 75px;
 }
 
 img:hover, img:focus {
